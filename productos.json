@@ -1,0 +1,215 @@
+{
+    "productos": [
+      {
+        "código": "12345",
+        "nombre": "Chuletas de cerdo",
+        "precio": 50,
+        "marca": "Cerdo Sabroso",
+        "fecha_caducidad": "17 de junio de 2023"
+      },
+      {
+        "código": "54321",
+        "nombre": "Pechugas de pollo",
+        "precio": 55,
+        "marca": "Pollo Fresco",
+        "fecha_caducidad": "19 de junio de 2023"
+      },
+      {
+        "código": "67890",
+        "nombre": "Tocino",
+        "precio": 65,
+        "marca": "Tocino Ahumado",
+        "fecha_caducidad": "18 de junio de 2023"
+      },
+      {
+        "código": "09876",
+        "nombre": "Lomo de cerdo",
+        "precio": 60,
+        "marca": "Cerdo Delicioso",
+        "fecha_caducidad": "16 de junio de 2023"
+      },
+      {
+        "código": "54321",
+        "nombre": "Filete de res",
+        "precio": 85,
+        "marca": "Res Premium",
+        "fecha_caducidad": "22 de junio de 2023"
+      },
+      {
+        "código": "23456",
+        "nombre": "Pescado congelado",
+        "precio": 40,
+        "marca": "Pescados Congelados",
+        "fecha_caducidad": "14 de junio de 2023"
+      },
+      {
+        "código": "78901",
+        "nombre": "Langostinos",
+        "precio": 70,
+        "marca": "Mariscos Frescos",
+        "fecha_caducidad": "20 de junio de 2023"
+      },
+      {
+        "código": "34567",
+        "nombre": "Albóndigas",
+        "precio": 35,
+        "marca": "Sabor Casero",
+        "fecha_caducidad": "12 de junio de 2023"
+      },
+      {
+        "código": "89012",
+        "nombre": "Carne molida",
+        "precio": 50,
+        "marca": "Carne Molida Premium",
+        "fecha_caducidad": "15 de junio de 2023"
+      },
+      {
+        "código": "45678",
+        "nombre": "Chorizo",
+        "precio": 45,
+        "marca": "Chorizo Tradicional",
+        "fecha_caducidad": "16 de junio de 2023"
+      },
+      {
+        "código": "13579",
+        "nombre": "Manzanas",
+        "precio": 20,
+        "marca": "Frutas del Valle",
+        "fecha_caducidad": "15 de junio de 2023"
+      },
+      {
+        "código": "24680",
+        "nombre": "Plátanos",
+        "precio": 12,
+        "marca": "Bananex",
+        "fecha_caducidad": "12 de junio de 2023"
+      },
+      {
+        "código": "97531",
+        "nombre": "Zanahorias",
+        "precio": 8,
+        "marca": "Verduras Naturales",
+        "fecha_caducidad": "10 de junio de 2023"
+      },
+      {
+        "código": "86420",
+        "nombre": "Lechuga",
+        "precio": 15,
+        "marca": "Campo Fresco",
+        "fecha_caducidad": "8 de junio de 2023"
+      },
+      {
+        "código": "13579",
+        "nombre": "Tomates",
+        "precio": 25,
+        "marca": "Tomatería Mexicana",
+        "fecha_caducidad": "14 de junio de 2023"
+      },
+      {
+        "código": "97531",
+        "nombre": "Cebollas",
+        "precio": 10,
+        "marca": "Cebollas del Campo",
+        "fecha_caducidad": "16 de junio de 2023"
+      },
+      {
+        "código": "24680",
+        "nombre": "Pepinos",
+        "precio": 8,
+        "marca": "Frescura Natural",
+        "fecha_caducidad": "13 de junio de 2023"
+      },
+      {
+        "código": "86420",
+        "nombre": "Naranjas",
+        "precio": 18,
+        "marca": "Citrus Mexicana",
+        "fecha_caducidad": "17 de junio de 2023"
+      },
+      {
+        "código": "24680",
+        "nombre": "Fresas",
+        "precio": 30,
+        "marca": "Fresas Deliciosas",
+        "fecha_caducidad": "11 de junio de 2023"
+      },
+      {
+        "código": "97531",
+        "nombre": "Uvas",
+        "precio": 25,
+        "marca": "Viñedos Mexicanos",
+        "fecha_caducidad": "15 de junio de 2023"
+      },
+      {
+        "código": "12345",
+        "nombre": "Leche",
+        "precio": 25,
+        "marca": "Leche Fresca",
+        "fecha_caducidad": "20 de junio de 2023"
+      },
+      {
+        "código": "54321",
+        "nombre": "Queso",
+        "precio": 45,
+        "marca": "Quesos Deliciosos",
+        "fecha_caducidad": "15 de julio de 2023"
+      },
+      {
+        "código": "67890",
+        "nombre": "Yogur",
+        "precio": 15,
+        "marca": "Yogur Natural",
+        "fecha_caducidad": "12 de junio de 2023"
+      },
+      {
+        "código": "09876",
+        "nombre": "Mantequilla",
+        "precio": 30,
+        "marca": "Mantequilla Suave",
+        "fecha_caducidad": "25 de junio de 2023"
+      },
+      {
+        "código": "54321",
+        "nombre": "Huevos",
+        "precio": 20,
+        "marca": "Huevos Frescos",
+        "fecha_caducidad": "10 de junio de 2023"
+      },
+      {
+        "código": "23456",
+        "nombre": "Crema de leche",
+        "precio": 35,
+        "marca": "Crema Láctea",
+        "fecha_caducidad": "18 de junio de 2023"
+      },
+      {
+        "código": "78901",
+        "nombre": "Leche de almendras",
+        "precio": 40,
+        "marca": "Almendra Nutritiva",
+        "fecha_caducidad": "22 de junio de 2023"
+      },
+      {
+        "código": "34567",
+        "nombre": "Leche de soja",
+        "precio": 35,
+        "marca": "Soja Saludable",
+        "fecha_caducidad": "16 de junio de 2023"
+      },
+      {
+        "código": "89012",
+        "nombre": "Leche de coco",
+        "precio": 45,
+        "marca": "Coco Fresco",
+        "fecha_caducidad": "19 de junio de 2023"
+      },
+      {
+        "código": "45678",
+        "nombre": "Yogur griego",
+        "precio": 25,
+        "marca": "Yogur Griego Auténtico",
+        "fecha_caducidad": "14 de junio de 2023"
+      }
+    ]
+  }
+  
